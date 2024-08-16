@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdul191" alt="abdul191" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/abdul15721" target="blank"><img src="https://img.shields.io/twitter/follow/abdul15721?logo=twitter&style=for-the-badge" alt="abdul15721" /></a> </p>
+<p align="left"> <a href="https://x.com/Abdul15721" target="blank"><img src="https://x.com/Abdul15721" alt="abdul15721" /></a> </p>
 
 - 🔭 I’m currently working on **- Multiple React projects focusing on component reusability and performance optimization.**
 
@@ -21,7 +21,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/abdul15721" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abdul15721" height="30" width="40" /></a>
+<a href="https://x.com/Abdul15721" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abdul15721" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/abdul-rehman-08bb78200?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abdul-rehman-08bb78200?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=100051604160326&mibextid=zbwkwl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100051604160326&mibextid=zbwkwl" height="30" width="40" /></a>
 <a href="https://www.instagram.com/itz_abdulrehman_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/itz_abdulrehman_?igsh=yw0yngn3zxjpogto" height="30" width="40" /></a>
